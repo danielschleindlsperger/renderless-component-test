@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "parcel index.html",
-    "build": "parcel build",
+    "build": "parcel build index.html",
     "lint": "eslint .js,.vue ./src"
   },
   "author": "Daniel Schleindlsperger <daniel@scleindlsperger.de>",
