@@ -1,0 +1,27 @@
+{
+  "name": "renderless-data-provider-component-example",
+  "version": "1.0.0",
+  "description": "A set of Vue.js clock components based on a renderless data provider component.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "parcel index.html",
+    "build": "parcel build",
+    "lint": "eslint .js,.vue ./src"
+  },
+  "author": "Daniel Schleindlsperger <daniel@scleindlsperger.de>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^1.2.1",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^4.19.1",
+    "eslint-plugin-vue": "^4.5.0",
+    "parcel-bundler": "^1.8.1",
+    "parcel-plugin-eslint": "^1.0.4",
+    "parcel-plugin-vue": "^1.5.0",
+    "vue-loader": "^15.0.11"
+  }
+}
