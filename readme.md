@@ -1,6 +1,6 @@
 ## Renderless component test
 
-This is a test of a [renderless component](https://adamwathan.me/renderless-components-in-vuejs/) in Vue.js, a concept pioneered by Adam Wathan.
+This is a test of a [renderless component](https://adamwathan.me/renderless-components-in-vuejs/) in Vue.js, as shown by Adam Wathan.
 
 ### Building
 ```bash
